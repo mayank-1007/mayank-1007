@@ -1,5 +1,5 @@
 # Portfolio
-Link - [](https://mayank-manchanda.vercel.app)
+Link - [Mayank Manchanda](https://mayank-manchanda.vercel.app)
 # 💫 About Me:
 I am currently working on various projects including blockchain web3 and smart contracts moreover wrapping it up with flutter.<br>I am interested in collaborating on projects for hackathons and various other tech projects including blockchain , webdev, python, web3 and somewhat in 5G telecoms<br>I am looking to help with various open source projects with fields in webdev(reacts, nextjs, typescript, javascript, c++, python and many other fields)<br>I am currently learning flutter for mobile development and blockchain to expand into crypto area and learning django backend setup and practicing cp.<br>Ask me about webdev, web3 , solidity, smart contracts, python , django, flutter, flask, c++, cp, algorithms ,nextjs ,reacts.<br>Fun fact - My dream is to work on a team that builds humanoid robots.
 
